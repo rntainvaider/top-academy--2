@@ -36,8 +36,8 @@
     text-decoration: underline;
 }
 
-.text_overline {
-    text-decoration: overline;
+.text_skip-ink {
+    text-underline-position: under;
 }
 
 .text_strikethrough {
