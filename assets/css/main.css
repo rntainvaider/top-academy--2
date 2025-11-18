@@ -1,0 +1,93 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+.section__wrapper {
+    margin-left: 20px;
+    margin-right: 50px;
+}
+
+.text_center {
+    text-align: center;
+}
+
+.text_right {
+    text-align: right;
+}
+
+.text_bold {
+    font-weight: 700;
+}
+
+.text_regular {
+    font-weight: 400;
+}
+
+.text_font {
+    font-size: 20px;
+}
+
+.text_underline {
+    text-decoration: underline;
+}
+
+.text_overline {
+    text-decoration: overline;
+}
+
+.text_strikethrough {
+    text-decoration: line-through;
+}
+
+.text_normal {
+    font-style: normal;
+}
+
+.text_italic {
+    font-style: italic;
+}
+
+.text_justify {
+    text-align: justify;
+}
+
+.text_red {
+    color: var(--color-red);
+}
+
+.text_magenta {
+    color: var(--color-magenta);
+}
+
+.text_green {
+    color: var(--color-green);
+}
+
+.text_softer-blue {
+    color: var(--color-softer-blue);
+}
+
+.text_vivid-orange {
+    color: var(--color-vivid-orange);
+}
+
+.text_deep-blue {
+    color: var(--color-deep-blue);
+}
+
+.text_black {
+    color: var(--color-black);
+}
+
+.text_teal {
+    color: var(--color-teal);
+}
+
+.text_berry {
+    color: var(--color-berry);
+}
